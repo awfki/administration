@@ -11,7 +11,7 @@ perspective may be a bit skewed. While :doc:`contents` does not
 address technical writing in any substantial manner, documentation is
 incredibly important to the work of systems administrators.
 
-It's feasible that systems administrators consume documentation as a
+It's feasible that systems administrators consume more documentation as a
 class than any other class of users. Furthermore, given
 administrator's distance from the development process and their role
 as "professional users" of software, systems administrators have the
